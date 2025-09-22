@@ -40,7 +40,6 @@ pip install pandas matplotlib seaborn wordcloud streamlit
 ## Project Structure
 
 - `cord19_analysis.ipynb` - Jupyter Notebook for step-by-step data analysis and visualizations
-- `cord19_streamlit.py` - Streamlit app script for interactive exploration
 - `FINDINGS_AND_REFLECTION.md` - Summary of findings and personal reflection
 - `README.md` - This file
 

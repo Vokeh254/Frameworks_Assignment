@@ -63,7 +63,7 @@ streamlit run cord19_streamlit.py
 Interact with the app to filter by publication year, view trends, see word clouds, and browse sample records.
 
 ### 4. Review Findings
-Check `FINDINGS_AND_REFLECTION.md` for a written summary and reflection on the analysis process.
+Check `Findings_and_Reflection.md` for a written summary and reflection on the analysis process.
 
 ## Example Visualizations
 
@@ -85,3 +85,4 @@ This project is for educational purposes.
 ---
 
 Happy coding and data exploring!
+Made with ❤ by Kelvin Njoroge
